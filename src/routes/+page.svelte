@@ -2,6 +2,11 @@
 	import { listaRevistas } from '$lib/data/revistas';
 </script>
 
+<svelte:head>
+    <title>Revista Digital IPS | Catálogo</title>
+    <meta name="description" content="Accede a todos los números previos, lee los resúmenes informativos o descarga las ediciones completas en formato PDF." />
+</svelte:head>
+
 <div class="min-h-screen bg-slate-950 text-slate-100 font-sans">
 	<!-- Navbar / Encabezado -->
 	<header class="border-b border-slate-800 bg-slate-900/50 backdrop-blur sticky top-0 z-50">

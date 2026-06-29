@@ -21,5 +21,5 @@ export default defineConfig({
 		})
 	],
 	// 🌟 Agrega esto para que las rutas funcionen en GitHub Pages:
-	base: process.env.NODE_ENV === 'production' ? '/Revista/' : '/'
+	base: process.env.NODE_ENV === 'production' ? '/revista/' : '/'
 });
