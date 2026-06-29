@@ -14,12 +14,11 @@ export const listaRevistas: Revista[] = [
 		id: 'edicion-3',
 		titulo: 'Revista IPS - Revisión Semanal',
 		fecha: 'Julio 2026',
-		resumen:
-			'Ponte al día con las últimas novedades de IPS.',
+		resumen: 'Ponte al día con las últimas novedades de IPS.',
 		portada: 'https://images.unsplash.com/photo-1698778539388-fd440b64dbe3?w=500&q=80',
 		pdfUrl: 'https://drive.google.com/file/d/10HJnb4jMiz5U1h1jEXHZGBfO4THAhnKe/view?usp=sharing'
 	},
-    {
+	{
 		id: 'edicion-2',
 		titulo: 'Revista IPS - Innovación Tecnológica',
 		fecha: 'Mayo 2026',
@@ -28,7 +27,7 @@ export const listaRevistas: Revista[] = [
 		portada: 'https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?w=500&q=80',
 		pdfUrl: 'https://drive.google.com/file/d/10HJnb4jMiz5U1h1jEXHZGBfO4THAhnKe/view?usp=sharing'
 	},
-    {
+	{
 		id: 'edicion-1',
 		titulo: 'Revista IPS - Edición Especial Junio',
 		fecha: 'Junio 2026',
